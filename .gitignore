@@ -1,3 +1,7 @@
 /results
 *.pdf
 *.csv
+*.dat
+*.log
+*.mat
+*.jupyterlab-workspace
